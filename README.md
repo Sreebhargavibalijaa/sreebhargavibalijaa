@@ -1,11 +1,16 @@
 Hi there 👋
 
-🔭 I’m currently doing my Masters in Machine Learning & Data Science.
-🌱 I’m always trying learn new things in Python, NLP, Computer Vision.
-👯 I’m looking to collaborate on Machine Learning projects/repo and Data Science for good projects.
-🤔 I’m looking for software intern opportunities to gain new experience.
+I'm a MLDS grad student at University of California, Sandiego. 
+
+Prior to this I worked for more than 2 years at ServiceNow. i am looking for summer internships where i can apply my computer science knowledge to diverse fields.
+
+I further love solving problems and optimizing algorithms and have garnered experience in the programming domains during by tenure at ServiceNow.
+
+I enjoy working with a diverse group of people with different backgrounds towards solving a problem.
+
+here is my portfolio https://sreebhargavibalijaa.github.io/portfolio/
+
 🤝 How to connect with me: sbalija@ucsd.edu | https://www.linkedin.com/in/balija-sree-bhargavi-b7638517a/
-😄 Here's my portfolio website: https://sreebhargavibalijaa.github.io/portfolio/
 
 
 Technical Skills
