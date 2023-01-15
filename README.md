@@ -5,6 +5,7 @@ Hi there 👋
 👯 I’m looking to collaborate on Machine Learning projects/repo and Data Science for good projects.
 🤔 I’m looking for software intern opportunities to gain new experience.
 🤝 How to connect with me: sbalija@ucsd.edu | https://www.linkedin.com/in/balija-sree-bhargavi-b7638517a/
+
 😄 Here's my portfolio website: https://sreebhargavibalijaa.github.io/portfolio/
 
 
