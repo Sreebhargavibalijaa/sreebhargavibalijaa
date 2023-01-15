@@ -1,13 +1,3 @@
-Hi there 👋
-
-I'm a MLDS grad student at University of California, Sandiego. 
-Prior to this I worked for more than 2 years at ServiceNow. i am looking for summer internships where i can apply my computer science knowledge to diverse fields.
-I further love solving problems and optimizing algorithms and have garnered experience in the programming domains during by tenure at ServiceNow.
-here is my portfolio https://sreebhargavibalijaa.github.io/portfolio/
-
-🤝 How to connect with me: sbalija@ucsd.edu | https://www.linkedin.com/in/balija-sree-bhargavi-b7638517a/
-
-
 Technical Skills
 Python Apache Flink PyTorch NumPy Pandas Plotly scikit-learn SciPy TensorFlow Visual Studio Code Yarn
 
@@ -16,12 +6,12 @@ Python Apache Flink PyTorch NumPy Pandas Plotly scikit-learn SciPy TensorFlow Vi
 ## Hi there 👋
 [![Linkedin: rajasvi](https://img.shields.io/badge/-rajasvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajasvi/)](https://www.linkedin.com/in/rajasvi/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rajasvi.github.io/)](https://rajasvi.github.io/)
-- 🔭 I’m currently doing my Masters in ECE at UC San Diego, majoring in **Machine Learning & Data Science**.
-- 🌱 I’m always trying learn new things in Python, NLP, Computer Vision.
-- 👯 I’m looking to collaborate on Machine Learning projects/repo and Data Science for good projects.
-- 🤔 I’m looking for opportunity to gain ML Research experience.
-- 🤝 How to connect with me: rvsharma@ucsd.edu | [LinkedIn](https://linkedin.com/in/rajasvi)
-- 😄 Here's my portfolio website: [rajasvi.github.io](https://rajasvi.github.io)
+-I'm a MLDS grad student at University of California, Sandiego. 
+-Prior to this I worked for more than 2 years at ServiceNow. i am looking for summer internships where i can apply my computer science knowledge to diverse fields.
+-I further love solving problems and optimizing algorithms and have garnered experience in the programming domains during by tenure at ServiceNow.
+-here is my portfolio https://sreebhargavibalijaa.github.io/portfolio/
+
+🤝 How to connect with me: sbalija@ucsd.edu | https://www.linkedin.com/in/balija-sree-bhargavi-b7638517a/
 
 <br>
 
