@@ -1,8 +1,8 @@
 <!-- ![banner](https://user-images.githubusercontent.com/29784113/161899740-b98b5792-3270-4869-9dd5-8e968ecf3fe4.png) -->
 <!-- <br> -->
 ## Hi there 👋
-[![Linkedin: rajasvi](https://img.shields.io/badge/-rajasvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajasvi/)](https://www.linkedin.com/in/balija-sree-bhargavi-b7638517a/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rajasvi.github.io/)](https://rajasvi.github.io/)
+[![Linkedin: sree bhargavi balija](https://img.shields.io/badge/-sree bhargavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/rajasvi/](https://www.linkedin.com/in/balija-sree-bhargavi-b7638517a/)](https://www.linkedin.com/in/balija-sree-bhargavi-b7638517a/))](https://www.linkedin.com/in/balija-sree-bhargavi-b7638517a/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rajasvi.github.io/)](https://github.com/Sreebhargavibalijaa)
 -I'm a MLDS grad student at University of California, Sandiego. 
 -Prior to this I worked for more than 2 years at ServiceNow. i am looking for summer internships where i can apply my computer science knowledge to diverse fields.
 -I further love solving problems and optimizing algorithms and have garnered experience in the programming domains during by tenure at ServiceNow.
