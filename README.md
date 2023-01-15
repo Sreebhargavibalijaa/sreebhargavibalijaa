@@ -12,7 +12,8 @@ I further love solving problems and optimizing algorithms and have garnered expe
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreebhargavi&layout=compact&theme=dark&hide_border=True)](https://github.com/Sreebhargavibalijaa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajasvi&layout=compact&theme=dark&hide_border=True)](https://github.com/Sreebhargavibalijaa)
+
 ![Sree Bhargavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreebhargavibalijaa&show_icons=true&theme=dark&hide_border=True&layout=compact&hide_title=False)
 
 ### Technical Skills
