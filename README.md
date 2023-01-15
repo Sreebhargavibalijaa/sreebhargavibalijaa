@@ -1,5 +1,4 @@
 Hi there 👋
-Linkedin: Sree bhargavi website
 
 🔭 I’m currently doing my Masters in Machine Learning & Data Science.
 🌱 I’m always trying learn new things in Python, NLP, Computer Vision.
