@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there 👋
+Linkedin: Sree bhargavi website
 
-<!--
-**Sreebhargavibalijaa/sreebhargavibalijaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently doing my Masters in Machine Learning & Data Science.
+🌱 I’m always trying learn new things in Python, NLP, Computer Vision.
+👯 I’m looking to collaborate on Machine Learning projects/repo and Data Science for good projects.
+🤔 I’m looking for software intern opportunities to gain new experience.
+🤝 How to connect with me: sbalija@ucsd.edu | https://www.linkedin.com/in/balija-sree-bhargavi-b7638517a/
+😄 Here's my portfolio website: https://sreebhargavibalijaa.github.io/portfolio/
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills
+Python Apache Flink PyTorch NumPy Pandas Plotly scikit-learn SciPy TensorFlow Visual Studio Code Yarn
