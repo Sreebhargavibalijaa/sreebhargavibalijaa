@@ -10,9 +10,6 @@ I further love solving problems and optimizing algorithms and have garnered expe
 
 🤝 How to connect with me: sbalija@ucsd.edu | https://www.linkedin.com/in/balija-sree-bhargavi-b7638517a/
 
-<br>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreebhargavibalijaa&layout=compact&theme=dark&hide_border=True)](https://github.com/Sreebhargavibalijaa) -->
 
 ### Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
