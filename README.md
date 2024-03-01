@@ -12,8 +12,6 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajasvi&layout=compact&theme=dark&hide_border=True)](https://github.com/Sreebhargavibalijaa)
-![Bhargavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajasvi&show_icons=true&theme=dark&hide_border=True&layout=compact&hide_title=False)
 
 ### Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
