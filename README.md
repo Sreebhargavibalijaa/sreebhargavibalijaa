@@ -1,7 +1,7 @@
 <!-- ![banner](https://user-images.githubusercontent.com/29784113/161899740-b98b5792-3270-4869-9dd5-8e968ecf3fe4.png) -->
 <!-- <br> -->
 ## Hi there 👋
-[![Linkedin: rajasvi](https://img.shields.io/badge/-rajasvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajasvi/)](https://www.linkedin.com/in/sree-bhargavi-balija-b7638517a/)
+[![Linkedin: Sree bhargavi](https://img.shields.io/badge/-rajasvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sree-bhargavi-balija-b7638517a/)](https://www.linkedin.com/in/sree-bhargavi-balija-b7638517a/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rajasvi.github.io/)](https://rajasvi.github.io/)
 - 🔭 I’m currently doing my Masters in ECE at UC San Diego, majoring in **Machine Learning & Data Science**.
 - 🌱 I’m always trying learn new things in Python, NLP, Computer Vision.
@@ -12,8 +12,8 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajasvi&layout=compact&theme=dark&hide_border=True)](https://github.com/rajasvi)
-![Rajasvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajasvi&show_icons=true&theme=dark&hide_border=True&layout=compact&hide_title=False)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajasvi&layout=compact&theme=dark&hide_border=True)](https://github.com/Sreebhargavibalijaa)
+![Bhargavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajasvi&show_icons=true&theme=dark&hide_border=True&layout=compact&hide_title=False)
 
 ### Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
