@@ -2,7 +2,7 @@
 <!-- <br> -->
 ## Hi there 👋
 [![Linkedin: Sree bhargavi](https://img.shields.io/badge/-Bhargavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sree-bhargavi-balija-b7638517a/)](https://www.linkedin.com/in/sree-bhargavi-balija-b7638517a/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://sreebhargavibalijaa.github.io/portfolio/)])
+
 - 🔭 I’m currently doing my Masters in ECE at UC San Diego, majoring in **Machine Learning & Data Science**.
 - 🌱 I’m always trying learn new things in Python, NLP, Computer Vision.
 - 👯 I’m looking to collaborate on Machine Learning projects/repo and Data Science for good projects.
