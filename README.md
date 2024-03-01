@@ -1,14 +1,14 @@
 <!-- ![banner](https://user-images.githubusercontent.com/29784113/161899740-b98b5792-3270-4869-9dd5-8e968ecf3fe4.png) -->
 <!-- <br> -->
 ## Hi there 👋
-[![Linkedin: rajasvi](https://img.shields.io/badge/-rajasvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajasvi/)](https://www.linkedin.com/in/rajasvi/)
+[![Linkedin: rajasvi](https://img.shields.io/badge/-rajasvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajasvi/)](https://www.linkedin.com/in/sree-bhargavi-balija-b7638517a/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rajasvi.github.io/)](https://rajasvi.github.io/)
 - 🔭 I’m currently doing my Masters in ECE at UC San Diego, majoring in **Machine Learning & Data Science**.
 - 🌱 I’m always trying learn new things in Python, NLP, Computer Vision.
 - 👯 I’m looking to collaborate on Machine Learning projects/repo and Data Science for good projects.
 - 🤔 I’m looking for opportunity to gain ML Research experience.
-- 🤝 How to connect with me: rvsharma@ucsd.edu | [LinkedIn](https://linkedin.com/in/rajasvi)
-- 😄 Here's my portfolio website: [rajasvi.github.io](https://rajasvi.github.io)
+- 🤝 How to connect with me: sbalija@ucsd.edu | [LinkedIn](https://www.linkedin.com/in/sree-bhargavi-balija-b7638517a/)
+- 😄 Here's my portfolio website: [Sreebhargavi.github.io](https://sreebhargavibalijaa.github.io/portfolio/)
 
 <br>
 
