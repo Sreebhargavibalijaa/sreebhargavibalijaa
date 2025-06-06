@@ -7,7 +7,7 @@
 - 🔭 I completed my Masters at UC San Diego, majoring in **Machine Learning & Data Science**.
 - 🌱 I’m always trying learn new things in Python, NLP, Computer Vision.
 - 👯 I’m looking to collaborate on Machine Learning projects/repo and Data Science for good projects.
-- 🤔 I’m looking for opportunity to gain ML Research experience.
+- 🤔 I worked as **Software Engineer** at ServiceNow.
 - 🤝 How to connect with me: sbalija@ucsd.edu | [LinkedIn](https://www.linkedin.com/in/sree-bhargavi-balija-b7638517a/)
 - 😄 Here's my portfolio website: [Sreebhargavi.github.io](https://sreebhargavibalijaa.github.io/portfolio/)
 
