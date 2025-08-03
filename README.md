@@ -15,15 +15,20 @@
 
 
 ### Technical Skills
-![Generative AI](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![LangChain](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)
-![Multimodal AI](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Pytorch](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![vLLM](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Kubeflow](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![AWS SageMaker](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Adversarial Robustness Toolbox](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![BentoML](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Technical Skills
+
+**AI/ML Frameworks & Tools**  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-6F2DA8?style=for-the-badge&logo=openai&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)  
+![vLLM](https://img.shields.io/badge/vLLM-2ECC71?style=for-the-badge)  
+![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-FF9F43?style=for-the-badge)  
+
+**MLOps & Deployment**  
+![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![BentoML](https://img.shields.io/badge/BentoML-FF6B6B?style=for-the-badge)  
+
+**Development Tools**  
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
