@@ -15,18 +15,11 @@
 
 
 ### Technical Skills
-### Technical Skills
-
 **AI/ML Frameworks & Tools**  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-6F2DA8?style=for-the-badge&logo=openai&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)  
-![vLLM](https://img.shields.io/badge/vLLM-2ECC71?style=for-the-badge)  
-![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-FF9F43?style=for-the-badge)  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Generative AI](https://img.shields.io/badge/Generative_AI-6F2DA8?style=for-the-badge&logo=openai&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)  ![vLLM](https://img.shields.io/badge/vLLM-2ECC71?style=for-the-badge)  ![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-FF9F43?style=for-the-badge)  
 
 **MLOps & Deployment**  
-![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![BentoML](https://img.shields.io/badge/BentoML-FF6B6B?style=for-the-badge)  
+![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  ![BentoML](https://img.shields.io/badge/BentoML-FF6B6B?style=for-the-badge)  
 
 **Development Tools**  
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
