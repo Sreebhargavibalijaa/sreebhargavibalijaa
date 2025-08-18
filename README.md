@@ -2,7 +2,7 @@
 <br>
 
 <h1 align="center">Hi there 👋, I'm Sree Bhargavi</h1>
-<h3 align="center">Machine Learning Engineer | Generative AI & MLOps Specialist | MS in ML & Data Science @ UC San Diego</h3>
+<h3 align="center">Machine Learning Engineer | Generative AI & MLOps Specialist | MS in ML & DS @ UC San Diego</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_With_Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sree-bhargavi-balija-b7638517a/)
 [![Email](https://img.shields.io/badge/-sbalija@ucsd.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbalija@ucsd.edu)
