@@ -3,6 +3,7 @@
 ## Hi there 👋
 [![Linkedin: Sree bhargavi](https://img.shields.io/badge/-Bhargavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sree-bhargavi-balija-b7638517a/)](https://www.linkedin.com/in/sree-bhargavi-balija-b7638517a/)
 
+- 😄 I am working at **Fujitsu Research of America** as Intern
 - 😄 I worked as a **Machine Learning Engineer** at Akdene technologies
 - 🔭 I completed my Masters at UC San Diego, majoring in **Machine Learning & Data Science**.
 - 🌱 I’m always trying learn new things in Python, NLP, Computer Vision.
