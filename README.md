@@ -32,7 +32,6 @@
 ---
 
 ### 🏆 **Key Achievements**
-- Optimized LLM inference latency by **40%** using vLLM at Fujitsu Research.  
 - Built end-to-end MLOps pipelines with **Kubeflow**, reducing training costs by **30%**.  
 - Led a computer vision project at Akdene, improving model accuracy by **15%**.  
 
