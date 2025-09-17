@@ -6,8 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_With_Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sree-bhargavi-balija-b7638517a/)
 [![Email](https://img.shields.io/badge/-sbalija@ucsd.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbalija@ucsd.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sreebhargavibalijaa.github.io/portfolio/)
-
 ---
 
 ### 🔍 **About Me**
